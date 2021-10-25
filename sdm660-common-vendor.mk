@@ -819,7 +819,6 @@ PRODUCT_PACKAGES += \
     SimContact \
     SimSettings \
     atfwd \
-    datastatusnotification \
     embms \
     imssettings \
     remoteSimLockAuthentication \
